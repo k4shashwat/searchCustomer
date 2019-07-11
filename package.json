@@ -1,0 +1,26 @@
+{
+  "name": "customer-fetch-lat-long",
+  "version": "1.0.0",
+  "description": "Fetch customers from distance 100 km range ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k4shashwat/searchCustomer.git"
+  },
+  "author": "Shashwat Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k4shashwat/searchCustomer/issues"
+  },
+  "homepage": "https://github.com/k4shashwat/searchCustomer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gps-range": "^1.0.0",
+    "hbs": "^4.0.4",
+    "lodash": "^4.17.14",
+    "nodemon": "^1.19.1"
+  }
+}
